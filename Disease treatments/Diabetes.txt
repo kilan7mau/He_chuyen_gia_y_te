@@ -1,39 +1,34 @@
-Patients with type 1 diabetes will need to take insulin injections for the rest of their life. They must also ensure proper blood-glucose levels by carrying out regular blood tests and following a special diet.
+- Bệnh nhân đái tháo đường type 1 cần phải tiêm insulin suốt đời. Họ cũng cần duy trì mức đường huyết ổn định bằng cách kiểm tra đường huyết thường xuyên và tuân thủ chế độ ăn đặc biệt.
 
-Type 2 patients need to eat healthily, be physically active, and test their blood glucose. They may also need to take oral medication, and/or insulin to control blood glucose levels.
+- Bệnh nhân đái tháo đường type 2 cần ăn uống lành mạnh, hoạt động thể chất đều đặn, và kiểm tra đường huyết thường xuyên. Ngoài ra, họ có thể cần dùng thuốc uống điều trị tiểu đường và/hoặc insulin để kiểm soát mức đường huyết.
 
-Treatment for type 1 diabetes includes:
+Điều trị đái tháo đường type 1 bao gồm:
+- Tiêm insulin
+- Tính toán lượng carbohydrate, chất béo và protein
+- Theo dõi đường huyết thường xuyên
+- Ăn uống lành mạnh
+- Tập thể dục đều đặn và duy trì cân nặng hợp lý
 
-Taking insulin
-Carbohydrate, fat and protein counting
-Frequent blood sugar monitoring
-Eating healthy foods
-Exercising regularly and maintaining a healthy weight
+Các loại insulin bao gồm:
+- Insulin tác dụng ngắn (regular)
+- Insulin tác dụng nhanh (rapid-acting)
+- Insulin tác dụng trung bình (NPH)
+- Insulin tác dụng kéo dài (long-acting)
 
-Types of insulin are many and include:
+Thuốc hỗ trợ khác:
+- Thuốc điều trị tăng huyết áp
+- Aspirin
+- Thuốc hạ mỡ máu (thuốc giảm cholesterol)
 
-Short-acting (regular) insulin
-Rapid-acting insulin
-Intermediate-acting (NPH) insulin
-Long-acting insulin
+Điều trị đái tháo đường type 2 bao gồm:
+- Chế độ ăn uống lành mạnh
+- Tập thể dục thường xuyên
+- Có thể cần dùng thuốc điều trị tiểu đường hoặc liệu pháp insulin
+- Theo dõi đường huyết
 
-Other Medications:
-
-High blood pressure medications
-Aspirin
-Cholesterol-lowering drugs
-
-Treatment for type 2 diabetes includes:
-
-Healthy eating
-Regular exercise
-Possibly, diabetes medication or insulin therapy
-Blood sugar monitoring
-
-Examples of possible treatments for type 2 diabetes include:
-
-Metformin (Glucophage, Glumetza, others)
-Sulfonylureas
-Meglitinides
-Thiazolidinediones
-Insulin therapy
+Một số thuốc điều trị đái tháo đường type 2 phổ biến:
+- Metformin (Glucophage, Glumetza, v.v.)
+- Sulfonylureas
+- Meglitinides
+- Thiazolidinediones
+- Liệu pháp insulin

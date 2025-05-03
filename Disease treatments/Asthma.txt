@@ -1,13 +1,16 @@
-There is no cure for asthma.
+Hiện nay không có phương pháp điều trị dứt điểm hen suyễn.
 
-Symptoms can be prevented by avoiding triggers, such as allergens and irritants, and by the use of inhaled corticosteroids.
+- Triệu chứng có thể được phòng ngừa bằng cách tránh các yếu tố khởi phát như dị nguyên (allergens) và chất kích thích (irritants), cũng như sử dụng thuốc corticosteroid dạng hít.
+- Các thuốc chống viêm, đặc biệt là corticosteroid dạng hít, là phương pháp điều trị quan trọng nhất đối với hầu hết bệnh nhân hen suyễn.
+- Thuốc giãn phế quản (bronchodilators) giúp giảm triệu chứng hen suyễn bằng cách làm giãn các cơ xung quanh đường thở, từ đó giúp đường thở mở rộng hơn.
+- Thuốc giãn phế quản tác dụng ngắn dạng hít thường được gọi là thuốc hít cấp cứu (rescue inhalers), được dùng để nhanh chóng làm giảm ho, khò khè, tức ngực và khó thở do hen suyễn.
+- Thuốc chủ vận beta tác dụng kéo dài (LABA - Long-acting beta agonists) hoặc thuốc đối kháng leukotriene (antileukotriene agents) có thể được sử dụng bổ sung nếu triệu chứng hen suyễn không được kiểm soát đầy đủ với corticosteroid dạng hít.
 
-Anti-inflammatory drugs, particularly inhaled steroids, are the most important treatment for most people with asthma.
+Việc điều trị các triệu chứng hen suyễn cấp tính nặng lên nhanh chóng thường bao gồm:
+- Thuốc chủ vận beta-2 tác dụng ngắn dạng hít như salbutamol
+- Corticosteroid đường uống.
 
-Bronchodilators relieve the symptoms of asthma by relaxing the muscles that can tighten around the airways. This helps to open up the airways. 
-
-Short-acting bronchodilator inhalers are often referred to as rescue inhalers and are used to quickly relieve the cough, wheeze, chest tightness, and shortness of breath caused by asthma
-
-Long-acting beta agonists (LABA) or antileukotriene agents may be used in addition to inhaled corticosteroids if asthma symptoms remain uncontrolled.
-
-Treatment of rapidly worsening symptoms is usually with an inhaled short-acting beta-2 agonist such as salbutamol and corticosteroids taken by mouth. In very severe cases, intravenous corticosteroids, magnesium sulfate, and hospitalization may be required.
+Trong các trường hợp rất nặng, có thể cần:
+- Corticosteroid đường tĩnh mạch
+- Magnesi sulfat
+- Nhập viện để điều trị.

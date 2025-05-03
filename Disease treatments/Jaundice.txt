@@ -1,16 +1,16 @@
-Jaundice is treated by managing the underlying cause.
+Điều trị vàng da tập trung vào việc xử lý nguyên nhân nền thay vì triệu chứng.
+- Dùng thuốc hoặc bổ sung dưỡng chất có thể giúp cải thiện vàng da, tùy thuộc vào nguyên nhân gây bệnh.
+- Các phương pháp điều trị cụ thể bao gồm:
+- Vàng da do thiếu máu (anemia-induced jaundice):
 
-Medication:
+Điều trị bằng cách tăng lượng sắt trong máu:
+- Uống viên bổ sung sắt
+- Hoặc tăng cường ăn thực phẩm giàu sắt
 
-Medication or supplements can help jaundice depending on the cause.
-Treatment will depend on the underlying cause.
+Vàng da do viêm gan (hepatitis-induced jaundice):
+- Cần điều trị bằng thuốc kháng virus hoặc corticosteroids
+- Vàng da do tắc nghẽn (obstruction-induced jaundice):
+- Điều trị bằng phẫu thuật để loại bỏ nguyên nhân gây tắc nghẽn
 
-Jaundice treatment targets the cause rather than the jaundice symptoms.
-
-The following treatments are used:
-
-Anemia-induced jaundice may be treated by boosting the amount of iron in the blood by either taking iron supplements or eating more iron-rich foods.
-Hepatitis-induced jaundice requires antiviral or steroid medications.
-Doctors can treat obstruction-induced jaundice by surgically removing the obstruction.
-
-If the jaundice has been caused by use of a medication, treatment for involves changing to an alternative medication.
+Vàng da do thuốc:
+- Điều trị bằng cách ngưng dùng thuốc đó và thay bằng loại thuốc khác phù hợp hơn

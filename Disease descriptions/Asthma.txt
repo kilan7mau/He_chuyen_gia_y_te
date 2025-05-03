@@ -1,14 +1,28 @@
-Asthma is a common long-term inflammatory disease of the airways of the lungs. 
-It is characterized by variable and recurring symptoms, reversible airflow obstruction, and bronchospasm.
+Hen suyễn (Asthma)
+- Hen suyễn là một bệnh viêm mạn tính phổ biến của đường dẫn khí trong phổi. Bệnh đặc trưng bởi các triệu chứng tái đi tái lại, mức độ thay đổi theo thời gian, kèm theo co thắt phế quản và tắc nghẽn luồng khí có thể hồi phục được.
+- Hen suyễn được cho là kết quả của sự kết hợp giữa yếu tố di truyền và môi trường.
 
-Asthma is thought to be caused by a combination of genetic and environmental factors.
-Environmental factors include exposure to air pollution and allergens.
+Các yếu tố môi trường bao gồm:
+- Ô nhiễm không khí
+- Tiếp xúc với dị nguyên (chất gây dị ứng)
 
-Other potential triggers include medications such as aspirin and beta blockers.
+Ngoài ra, một số thuốc cũng có thể gây khởi phát cơn hen, điển hình là:
+- Aspirin
+- Thuốc chẹn beta (beta-blockers)
 
-Diagnosis:
-Diagnosis is usually based on the pattern of symptoms, response to therapy over time, and spirometry.
+Chẩn đoán hen suyễn
 
-Asthma is classified according to the frequency of symptoms, forced expiratory volume in one second (FEV1), and peak expiratory flow rate.
+Chẩn đoán thường dựa trên:
+- Mô hình triệu chứng lâm sàng
+- Đáp ứng với điều trị theo thời gian
+- Đo chức năng hô hấp bằng hô hấp ký (spirometry)
 
-It may also be classified as atopic or non-atopic, where atopy refers to a predisposition toward developing a type 1 hypersensitivity reaction.
+Hen suyễn được phân loại dựa trên:
+- Tần suất xuất hiện triệu chứng
+- Thể tích khí thở ra tối đa trong 1 giây (FEV1)
+- Lưu lượng đỉnh thở ra (PEF – Peak Expiratory Flow)
+
+Hen cũng có thể được chia thành:
+- Hen suyễn có cơ địa dị ứng (atopic)
+- Hen suyễn không có cơ địa dị ứng (non-atopic)
+Trong đó, cơ địa dị ứng (atopy) là thuật ngữ chỉ xu hướng dễ mắc các phản ứng dị ứng type I (quá mẫn tức thì).

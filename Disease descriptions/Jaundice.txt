@@ -1,25 +1,17 @@
-Jaundice is a term used to describe a yellowish tinge to the skin and the whites of the eye. Body fluids may also be yellow.
+Vàng da (Jaundice)
+- Vàng da là thuật ngữ dùng để chỉ tình trạng màu vàng của da và lòng trắng mắt. Các chất dịch trong cơ thể cũng có thể có màu vàng.
+- Màu sắc của da và lòng trắng mắt sẽ thay đổi tùy thuộc vào mức độ bilirubin trong máu. Bilirubin là một chất thải có trong máu.
+  + Mức độ vừa phải sẽ dẫn đến màu vàng, trong khi mức độ rất cao sẽ xuất hiện màu nâu.
+  + Viêm gan hoặc tắc nghẽn ống mật có thể dẫn đến vàng da, cũng như các bệnh lý tiềm ẩn khác.
 
-The color of the skin and whites of the eyes will vary depending on levels of bilirubin. Bilirubin is a waste material found in the blood. 
+Các nguyên nhân tiềm ẩn có thể gây vàng da:
+- Viêm cấp gan: Điều này có thể làm giảm khả năng của gan trong việc kết hợp và tiết bilirubin, dẫn đến tích tụ bilirubin trong cơ thể.
+- Viêm ống mật: Điều này có thể ngăn cản việc tiết mật và loại bỏ bilirubin, gây ra vàng da.
+- Tắc nghẽn ống mật: Điều này ngăn cản gan đào thải bilirubin.
+- Thiếu máu tan máu (Hemolytic anemia): Khi các tế bào hồng cầu bị phá hủy với số lượng lớn, việc sản xuất bilirubin tăng lên.
+- Hội chứng Gilbert: Đây là một tình trạng di truyền làm giảm khả năng của các enzyme trong việc xử lý sự bài tiết mật.
+- Tắc mật (Cholestasis): Điều này cản trở dòng chảy của mật từ gan. Mật chứa bilirubin kết hợp sẽ ở lại trong gan thay vì được bài tiết.
 
-Moderate levels lead to a yellow color, while very high levels will appear brown.
-An inflamed liver or obstructed bile duct can lead to jaundice, as well as other underlying conditions.
-
-Underlying conditions that may cause jaundice include:
-
-Acute inflammation of the liver: This may impair the ability of the liver to conjugate and secrete bilirubin, resulting in a buildup.
-
-Inflammation of the bile duct: This can prevent the secretion of bile and removal of bilirubin, causing jaundice.
-
-Obstruction of the bile duct: This prevents the liver from disposing of bilirubin.
-Hemolytic anemia: The production of bilirubin increases when large quantities of red blood cells are broken down.
-
-Gilbert's syndrome: This is an inherited condition that impairs the ability of enzymes to process the excretion of bile.
-
-Cholestasis: This interrupts the flow of bile from the liver. The bile containing conjugated bilirubin remains in the liver instead of being excreted.
-
-Diagnosis:
-
-The yellowing of skin and eyes are likely to be the main clues a doctor will use before confirming a jaundice diagnosis.
-
-A physical examination will be carried out to look for signs of swelling of the liver and legs, ankles or feet, which might indicate cirrhosis of the liver.
+Chẩn đoán:
+- Vàng da thường là dấu hiệu chính mà bác sĩ sử dụng trước khi xác nhận chẩn đoán vàng da.
+- Một khám lâm sàng sẽ được thực hiện để tìm dấu hiệu sưng gan và sưng ở chân, mắt cá hoặc bàn chân, điều này có thể chỉ ra xơ gan.

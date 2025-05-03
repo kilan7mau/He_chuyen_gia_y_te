@@ -1,34 +1,28 @@
-Hyperthyroidism is a condition of the thyroid. The thyroid is a small, butterfly-shaped gland located at the front of your neck. It produces tetraiodothyronine (T4) and triiodothyronine (T3), which are two primary hormones that control how your cells use energy. Your thyroid gland regulates your metabolism through the release of these hormones.
+Cường giáp (Hyperthyroidism)
+- Cường giáp là một tình trạng liên quan đến tuyến giáp, một tuyến nhỏ có hình dạng như con bướm nằm ở phía trước cổ. Tuyến giáp sản xuất tetraiodothyronine (T4) và triiodothyronine (T3), là hai hormone chính điều khiển cách thức cơ thể sử dụng năng lượng. Tuyến giáp điều hòa quá trình trao đổi chất của cơ thể thông qua việc tiết ra các hormone này.
+- Cường giáp xảy ra khi tuyến giáp sản xuất quá nhiều T4, T3 hoặc cả hai. Việc chẩn đoán và điều trị nguyên nhân gây cường giáp có thể giúp giảm triệu chứng và ngăn ngừa các biến chứng.
 
-Hyperthyroidism occurs when the thyroid makes too much T4, T3, or both. Diagnosis of overactive thyroid and treatment of the underlying cause can relieve symptoms and prevent complications.
+Nguyên nhân gây cường giáp
+- Có nhiều nguyên nhân có thể gây ra cường giáp. Bệnh Graves, một bệnh tự miễn, là nguyên nhân phổ biến nhất gây ra cường giáp. Bệnh Graves làm các kháng thể kích thích tuyến giáp tiết quá nhiều hormone. Bệnh Graves xảy ra thường xuyên ở phụ nữ hơn nam giới và có xu hướng di truyền trong gia đình, điều này cho thấy có mối liên hệ di truyền. Bạn nên thông báo với bác sĩ nếu trong gia đình bạn có người từng mắc bệnh này.
+- Các nguyên nhân khác của cường giáp bao gồm:
+  + Tình trạng thừa i-ốt, một thành phần chính trong T4 và T3.
+  + Viêm tuyến giáp, hoặc viêm tuyến giáp, khiến T4 và T3 rò rỉ ra khỏi tuyến.
+  + Khối u ở buồng trứng hoặc tinh hoàn.
+  + Khối u lành tính ở tuyến giáp hoặc tuyến yên.
+  + Lượng tetraiodothyronine lớn được dùng qua các thực phẩm bổ sung hoặc thuốc.
 
-A variety of conditions can cause hyperthyroidism. Graves' disease, an autoimmune disorder, is the most common cause of hyperthyroidism. It causes antibodies to stimulate the thyroid to secrete too much hormone. Graves’ disease occurs more often in women than in men. It tends to run in families, which suggests a genetic link. You should tell your doctor if your relatives have had the condition.
-
-Other causes of hyperthyroidism include:
-
-Excess iodine, a key ingredient in T4 and T3
-
-Thyroiditis, or inflammation of the thyroid, which causes T4 and T3 to leak out of the gland
-
-Tumors of the ovaries or testes
-
-Benign tumors of the thyroid or pituitary gland
-
-Large amounts of tetraiodothyronine taken through dietary supplements or medication
-
-Diagnosis:
-
-Cholesterol test
-T4, free T4, T3 tests
-Thyroid stimulating hormone level test
-Triglyceride test
-Thyroid scan and uptake
-Ultrasound
-CT or MRI scans
-Radio Iodine Uptake test
-
-Physical Exam
-Blood Tests
-Checking for weight loss
-Checking for protruding eyes
-Checking for enlarged thyroid gland
+Chẩn đoán cường giáp
+- Các xét nghiệm chẩn đoán có thể bao gồm:
+- Xét nghiệm cholesterol
+- Xét nghiệm T4, T4 tự do, T3
+- Xét nghiệm mức độ hormone kích thích tuyến giáp (TSH)
+- Xét nghiệm triglycerid
+- Chụp tuyến giáp và đo hấp thu
+- Siêu âm
+- Chụp CT hoặc MRI
+- Xét nghiệm hấp thu I-ốt phóng xạ
+- Khám lâm sàng và xét nghiệm máu
+- Các dấu hiệu và triệu chứng có thể bao gồm:
+- Sụt cân
+- Mắt lồi (protruding eyes)
+- Tuyến giáp phình to (goiter)

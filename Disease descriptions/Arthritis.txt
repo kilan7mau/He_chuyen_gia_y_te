@@ -1,23 +1,25 @@
-Arthritis is Inflammation of one or more joints, causing pain and stiffness that can worsen with age.
+Viêm khớp (Arthritis)
+- Viêm khớp là tình trạng viêm của một hoặc nhiều khớp, gây đau và cứng khớp, các triệu chứng này có thể trở nên nghiêm trọng hơn theo tuổi tác.
+- Viêm khớp là một bệnh lý rất phổ biến nhưng vẫn chưa được hiểu rõ hoàn toàn. Có hơn 100 loại viêm khớp khác nhau, mỗi loại có nguyên nhân riêng, bao gồm thoái hóa, nhiễm trùng, hoặc bệnh lý nền.
 
-Arthritis is very common but is not well understood.
+Các dạng viêm khớp phổ biến nhất:
 
-Different types of arthritis exist, each with different causes including wear and tear, infections and underlying diseases.
+1. Viêm xương khớp (Osteoarthritis)
+- Là dạng viêm khớp phổ biến nhất. Xảy ra khi sụn – lớp mô trơn giúp bảo vệ đầu xương – bị mài mòn, khiến xương cọ sát vào nhau, gây đau, sưng và cứng khớp. Theo thời gian, các khớp có thể suy yếu và cơn đau có thể trở thành mạn tính.
 
-There are over 100 types of arthritis. The most common forms are osteoarthritis (degenerative joint disease) and rheumatoid arthritis.
+Yếu tố nguy cơ bao gồm:
+- Thừa cân
+- Tiền sử gia đình
+- Tuổi cao
+- Tiền sử chấn thương (ví dụ: rách dây chằng chéo trước – ACL)
 
-Osteoarthritis is the most common type of arthritis. When the cartilage – the slick, cushioning surface on the ends of bones – wears away, bone rubs against bone, causing pain, swelling and stiffness. Over time, joints can lose strength and pain may become chronic. Risk factors include excess weight, family history, age and previous injury (an anterior cruciate ligament, or ACL, tear, for example). 
+2. Viêm khớp dạng thấp (Rheumatoid Arthritis)
+- Là bệnh viêm mạn tính không chỉ ảnh hưởng đến các khớp, mà còn có thể tác động đến nhiều cơ quan khác trong cơ thể như: da, mắt, phổi, tim và mạch máu.
+- Đây là một bệnh tự miễn, trong đó hệ miễn dịch tấn công nhầm các mô khỏe mạnh của chính cơ thể, đặc biệt là màng hoạt dịch – lớp lót bên trong khớp. Điều này gây viêm đau kéo dài, có thể dẫn đến bào mòn xương và biến dạng khớp.
+- Tình trạng viêm có thể lan sang các cơ quan khác, gây tổn thương toàn thân. Dù các thuốc điều trị mới đã cải thiện đáng kể tiên lượng bệnh, viêm khớp dạng thấp nặng vẫn có thể gây tàn tật.
 
-Rheumatoid arthritis is a chronic inflammatory disorder that can affect more than just your joints. In some people, the condition also can damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels.
-
-An autoimmune disorder, rheumatoid arthritis occurs when your immune system mistakenly attacks your own body's tissues.
-
-Unlike the wear-and-tear damage of osteoarthritis, rheumatoid arthritis affects the lining of your joints, causing a painful swelling that can eventually result in bone erosion and joint deformity.
-
-The inflammation associated with rheumatoid arthritis is what can damage other parts of the body as well. While new types of medications have improved treatment options dramatically, severe rheumatoid arthritis can still cause physical disabilities.
-
-Diagnosis:
-X-rays
-Blood Tests
-MRI
-CT Scans
+Chẩn đoán viêm khớp
+- X-quang
+- Xét nghiệm máu
+- Chụp cộng hưởng từ (MRI)
+- Chụp cắt lớp vi tính (CT Scan)

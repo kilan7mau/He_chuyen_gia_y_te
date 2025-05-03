@@ -1,23 +1,16 @@
-Arthritis treatment focuses on relieving symptoms and improving joint function. You may need to try several different treatments, or combinations of treatments, before you determine what works best for you.
+Điều trị viêm khớp tập trung vào việc làm giảm triệu chứng và cải thiện chức năng của khớp. Bạn có thể cần thử nhiều phương pháp điều trị khác nhau, hoặc kết hợp các phương pháp, để xác định liệu pháp phù hợp nhất với bản thân.
 
-Medications
-The medications used to treat arthritis vary depending on the type of arthritis. Commonly used arthritis medications include:
+Thuốc điều trị
+Các loại thuốc dùng để điều trị viêm khớp sẽ khác nhau tùy thuộc vào loại viêm khớp mắc phải. Một số thuốc thường được sử dụng bao gồm:
+- Thuốc giảm đau (Analgesics): Các thuốc này giúp giảm đau nhưng không có tác dụng chống viêm.
+- Thuốc chống viêm không steroid (NSAIDs - Nonsteroidal Anti-inflammatory Drugs): NSAIDs giúp giảm cả đau và viêm. Một số NSAIDs có thể mua không cần toa như ibuprofen và naproxen natri. Tuy nhiên, NSAIDs dạng uống có thể gây kích ứng dạ dày và một số loại có thể làm tăng nguy cơ nhồi máu cơ tim hoặc đột quỵ.
+- Thuốc điều chỉnh bệnh thấp khớp (DMARDs - Disease-Modifying Antirheumatic Drugs): Thường được sử dụng trong điều trị viêm khớp dạng thấp, DMARDs có tác dụng làm chậm hoặc ngăn hệ miễn dịch tấn công các khớp.
 
-Analgesics. These medications help reduce pain, but have no effect on inflammation.
+Vật lý trị liệu
+Vật lý trị liệu có thể hữu ích đối với một số loại viêm khớp. Các bài tập có thể cải thiện tầm vận động và tăng cường sức mạnh cho các cơ quanh khớp. Trong một số trường hợp, có thể cần dùng nẹp hoặc đai hỗ trợ.
 
-Nonsteroidal anti-inflammatory drugs (NSAIDs). NSAIDs reduce both pain and inflammation. Over-the-counter NSAIDs include ibuprofen and naproxen sodium. Oral NSAIDs can cause stomach irritation, and some may increase your risk of heart attack or stroke.
-
-Disease-modifying antirheumatic drugs (DMARDs). Often used to treat rheumatoid arthritis, DMARDs slow or stop your immune system from attacking your joints.
-
-Therapy
-Physical therapy can be helpful for some types of arthritis. Exercises can improve range of motion and strengthen the muscles surrounding joints. In some cases, splints or braces may be warranted.
-
-Surgery
-
-If conservative measures don't help, your doctor may suggest surgery, such as:
-
-Joint repair. In some instances, joint surfaces can be smoothed or realigned to reduce pain and improve function. These types of procedures can often be performed arthroscopically — through small incisions over the joint.
-
-Joint replacement. This procedure removes your damaged joint and replaces it with an artificial one. Joints most commonly replaced are hips and knees.
-
-Joint fusion. This procedure is more often used for smaller joints, such as those in the wrist, ankle and fingers. It removes the ends of the two bones in the joint and then locks those ends together until they heal into one rigid unit.
+Phẫu thuật
+Nếu các biện pháp điều trị bảo tồn không mang lại hiệu quả, bác sĩ có thể đề nghị phẫu thuật, chẳng hạn như:
+- Sửa chữa khớp: Trong một số trường hợp, bề mặt khớp có thể được làm mịn hoặc chỉnh lại vị trí để giảm đau và cải thiện chức năng. Những thủ thuật này thường có thể thực hiện bằng nội soi khớp — qua các vết rạch nhỏ trên khớp.
+- Thay khớp: Thủ thuật này sẽ loại bỏ khớp bị tổn thương và thay thế bằng khớp nhân tạo. Các khớp thường được thay thế nhất là khớp háng và khớp gối.
+- Hàn khớp (Gây dính khớp): Phương pháp này thường được áp dụng cho các khớp nhỏ như cổ tay, mắt cá chân và ngón tay. Phẫu thuật loại bỏ các đầu xương của khớp và cố định chúng lại cho đến khi chúng liền lại thành một khối xương cứng.

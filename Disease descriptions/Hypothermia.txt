@@ -1,20 +1,18 @@
-Hypothermia is a medical emergency that occurs when your body loses heat faster than it can produce heat, causing a dangerously low body temperature. Normal body temperature is around 98.6 F (37 C). Hypothermia (hi-poe-THUR-me-uh) occurs as your body temperature falls below 95 F (35 C).
+Hạ thân nhiệt (Hypothermia)
+- Hạ thân nhiệt là một tình trạng cấp cứu y tế xảy ra khi cơ thể mất nhiệt nhanh hơn khả năng sản xuất nhiệt, dẫn đến nhiệt độ cơ thể giảm xuống mức nguy hiểm. Nhiệt độ cơ thể bình thường là khoảng 98,6°F (37°C). Hạ thân nhiệt xảy ra khi nhiệt độ cơ thể giảm xuống dưới 95°F (35°C).
+- Khi nhiệt độ cơ thể giảm, tim, hệ thần kinh và các cơ quan khác không thể hoạt động bình thường. Nếu không được điều trị, hạ thân nhiệt có thể dẫn đến sự suy kiệt hoàn toàn của tim và hệ hô hấp, và cuối cùng là tử vong.
+- Hạ thân nhiệt thường xảy ra do tiếp xúc với thời tiết lạnh hoặc ngâm mình trong nước lạnh. Các phương pháp điều trị chính cho hạ thân nhiệt là các biện pháp làm ấm cơ thể trở lại nhiệt độ bình thường.
 
-When your body temperature drops, your heart, nervous system and other organs can't work normally. Left untreated, hypothermia can eventually lead to complete failure of your heart and respiratory system and eventually to death.
+Nguyên nhân gây hạ thân nhiệt
+- Hạ thân nhiệt có hai nguyên nhân chính. Tình trạng này thường xảy ra do tiếp xúc với lạnh cực độ.
+- Hạ thân nhiệt cũng có thể xảy ra do bất kỳ tình trạng nào giảm sản xuất nhiệt hoặc tăng mất nhiệt. Những nguyên nhân thường gặp bao gồm:
+  + Nhiễm độc rượu.
+  + Đường huyết thấp.
+  + Chứng chán ăn.
+  + Tuổi cao.
+- Nhiệt độ cơ thể thường được duy trì ở mức 36,5–37,5°C (97,7–99,5°F) thông qua quá trình điều hòa nhiệt.
+- Những nỗ lực để tăng nhiệt độ cơ thể bao gồm run rẩy, hoạt động thể chất tự nguyện tăng cường, và mặc quần áo ấm hơn.
 
-Hypothermia is often caused by exposure to cold weather or immersion in cold water. Primary treatments for hypothermia are methods to warm the body back to a normal temperature.
-
-Hypothermia has two main types of causes. It classically occurs from exposure to extreme cold.
-
-It may also occur from any condition that decreases heat production or increases heat loss.
-Commonly this includes alcohol intoxication but may also include low blood sugar, anorexia, and advanced age.
-
-Body temperature is usually maintained near a constant level of 36.5–37.5 °C (97.7–99.5 °F) through thermoregulation.
-
-Efforts to increase body temperature involve shivering, increased voluntary activity, and putting on warmer clothing.
-
-Diagnosis:
-
-The diagnosis of hypothermia is usually apparent based on a person's physical signs and the conditions in which the person with hypothermia became ill or was found. Blood tests also can help confirm hypothermia and its severity.
-
-A diagnosis may not be readily apparent, however, if the symptoms are mild, as when an older person who is indoors has symptoms of confusion, lack of coordination and speech problems.
+Chẩn đoán hạ thân nhiệt
+- Chẩn đoán hạ thân nhiệt thường dễ dàng nhận biết qua dấu hiệu lâm sàng của người bệnh và hoàn cảnh mà người bệnh mắc phải hoặc được tìm thấy. Các xét nghiệm máu cũng có thể giúp xác định hạ thân nhiệt và mức độ nghiêm trọng của nó.
+- Tuy nhiên, chẩn đoán có thể không dễ dàng nhận ra nếu triệu chứng nhẹ, như khi một người cao tuổi ở trong nhà có triệu chứng lú lẫn, mất phối hợp và khó nói.

@@ -1,28 +1,26 @@
-Heart disease describes a range of conditions that affect your heart. Diseases under the heart disease umbrella include blood vessel diseases, such as coronary artery disease; heart rhythm problems (arrhythmias); and heart defects you're born with (congenital heart defects), among others.
+Bệnh tim mạch (Heart Disease)
+- Bệnh tim mạch là thuật ngữ chỉ một nhóm các bệnh lý ảnh hưởng đến tâm, bao gồm các bệnh về mạch máu, như bệnh động mạch vành; rối loạn nhịp tim (arrhythmias); và các khiếm khuyết bẩm sinh (bệnh tim bẩm sinh), cùng với các bệnh lý khác.
+- Thuật ngữ "bệnh tim mạch" thường được dùng thay thế cho "bệnh tim mạch vành" (cardiovascular disease). Bệnh tim mạch vành chỉ các bệnh liên quan đến hẹp hoặc tắc nghẽn mạch máu, có thể dẫn đến nhồi máu cơ tim, đau ngực (đau thắt ngực) hoặc đột quỵ. Các bệnh tim khác, như những bệnh ảnh hưởng đến cơ tim, van tim hoặc nhịp tim, cũng được coi là các dạng của bệnh tim mạch.
+- Nhiều dạng bệnh tim mạch có thể được ngăn ngừa hoặc điều trị thông qua lối sống lành mạnh.
+- Triệu chứng bệnh tim mạch có thể khác nhau giữa nam và nữ.
 
-The term "heart disease" is often used interchangeably with the term "cardiovascular disease." Cardiovascular disease generally refers to conditions that involve narrowed or blocked blood vessels that can lead to a heart attack, chest pain (angina) or stroke. Other heart conditions, such as those that affect your heart's muscle, valves or rhythm, also are considered forms of heart disease.
+Nguyên nhân bệnh tim mạch
+- Trong khi bệnh tim mạch có thể đề cập đến các vấn đề tim hoặc mạch máu khác nhau, thuật ngữ này thường được dùng để chỉ tổn thương tim hoặc mạch máu do xơ vữa động mạch, sự tích tụ mảng bám mỡ trong động mạch.
+- Sự tích tụ mảng bám làm dày lên và cứng lại thành động mạch, điều này có thể gây cản trở dòng chảy của máu qua các động mạch đến các cơ quan và mô trong cơ thể.
+- Xơ vữa động mạch là nguyên nhân phổ biến nhất gây bệnh tim mạch. Nó có thể do các vấn đề có thể điều chỉnh được, chẳng hạn như:
+  + Chế độ ăn uống không lành mạnh
+  + Thiếu vận động
+  + Thừa cân
+  + Hút thuốc
 
-Many forms of heart disease can be prevented or treated with healthy lifestyle choices.
-
-Cardiovascular disease symptoms may be different for men and women.
-
-Causes:
-
-While cardiovascular disease can refer to different heart or blood vessel problems, the term is often used to mean damage to your heart or blood vessels by atherosclerosis, a buildup of fatty plaques in your arteries. 
-
-Plaque buildup thickens and stiffens artery walls, which can inhibit blood flow through your arteries to your organs and tissues.
-
-Atherosclerosis is also the most common cause of cardiovascular disease. It can be caused by correctable problems, such as an unhealthy diet, lack of exercise, being overweight and smoking
-
-Common causes of abnormal heart rhythms (arrhythmias) or conditions that can lead to arrhythmias include:
-
-Heart defects since birth
-Coronary artery disease
-High blood pressure
-Diabetes
-Smoking
-Excessive use of alcohol or caffeine
-Drug abuse
-Stress
-Some over-the-counter medications, prescription medications, dietary supplements and herbal remedies
-Valvular heart disease
+Nguyên nhân phổ biến gây rối loạn nhịp tim (arrhythmias) hoặc các tình trạng có thể dẫn đến rối loạn nhịp tim:
+Khiếm khuyết tim bẩm sinh
+- Bệnh động mạch vành
+- Huyết áp cao
+- Bệnh tiểu đường
+- Hút thuốc
+- Sử dụng rượu hoặc caffeine quá mức
+- Lạm dụng thuốc
+- Căng thẳng
+- Một số thuốc không kê đơn, thuốc kê đơn, thực phẩm chức năng và thảo dược
+- Bệnh van tim

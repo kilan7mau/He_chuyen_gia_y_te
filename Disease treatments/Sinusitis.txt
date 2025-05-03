@@ -1,25 +1,16 @@
-Prevention:
+Phòng ngừa:
+- Để giảm nguy cơ mắc viêm xoang cấp tính, cần thực hiện các biện pháp sau:
+- Tránh nhiễm trùng đường hô hấp trên: Hạn chế tiếp xúc với người đang bị cảm lạnh. Thường xuyên rửa tay bằng xà phòng và nước, đặc biệt là trước khi ăn.
+- Kiểm soát dị ứng hiệu quả: Quản lý tốt các yếu tố dị ứng nhằm hạn chế tình trạng viêm mũi xoang tái phát.
+- Tránh khói thuốc lá và không khí ô nhiễm: Khói thuốc và các chất ô nhiễm khác có thể gây kích ứng và viêm đường hô hấp cũng như các xoang mũi.
+- Sử dụng máy tạo độ ẩm: Nếu không khí trong nhà khô (như khi sử dụng hệ thống sưởi cưỡng bức), việc bổ sung độ ẩm có thể giúp phòng ngừa viêm xoang. Đảm bảo máy tạo độ ẩm luôn được vệ sinh sạch sẽ, tránh nấm mốc phát triển.
 
-Take these steps to help reduce your risk of getting acute sinusitis:
+Điều trị:
+- Xịt thông mũi: Việc sử dụng thuốc xịt thông mũi (ví dụ như oxymetazoline) có thể giúp giảm triệu chứng viêm xoang trong thời gian ngắn.
+- Thuốc không kê đơn: Các thuốc chứa kháng histamin và thuốc thông mũi cũng có thể hỗ trợ giảm triệu chứng, đặc biệt hữu ích nếu người bệnh đồng thời có cơ địa dị ứng.
 
-Avoid upper respiratory infections. Minimize contact with people who have colds. Wash your hands frequently with soap and water, especially before your meals.
-
-Manage your allergies.
-
-Avoid cigarette smoke and polluted air. Tobacco smoke and other pollutants can irritate and inflame your lungs and nasal passages.
-
-Use a humidifier. If the air in your home is dry, such as it is if you have forced-air heat, adding moisture to the air may help prevent sinusitis. Be sure the humidifier stays clean and free of mold with regular, thorough cleaning.
-
-Treatment:
-
-Using a nasal decongestant spray, such as oxymetazoline, can help relieve sinus infection symptoms short-term.
-
-Other over-the-counter medicines that contain antihistamines and decongestants can help with sinus infections, particularly if you also suffer from allergies.
-
-Medications:
-
-Sudafed
-Zyrtec
-Allegra
-Claritin
-
+Một số loại thuốc thường dùng:
+- Sudafed (pseudoephedrine) – thuốc thông mũi
+- Zyrtec (cetirizine) – kháng histamin thế hệ 2
+- Allegra (fexofenadine) – kháng histamin thế hệ 2
+- Claritin (loratadine) – kháng histamin thế hệ 2

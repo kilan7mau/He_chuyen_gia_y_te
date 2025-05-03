@@ -1,12 +1,21 @@
-Depending on the severity of hypothermia, emergency medical care for hypothermia may include one of the following interventions to raise the body temperature:
+Tùy thuộc vào mức độ nghiêm trọng của hạ thân nhiệt, việc chăm sóc y tế khẩn cấp có thể bao gồm một trong các biện pháp sau để làm tăng nhiệt độ cơ thể:
 
-Passive rewarming: For someone with mild hypothermia, it is enough to cover them with heated blankets and offer warm fluids to drink.
+Làm ấm thụ động:
+- Với trường hợp hạ thân nhiệt nhẹ, chỉ cần đắp chăn ấm và cho uống chất lỏng ấm là đủ.
 
-Blood rewarming : Blood may be drawn, warmed and recirculated in the body. A common method of warming blood is the use of a hemodialysis machine, which is normally used to filter blood in people with poor kidney function. Heart bypass machines also may need to be used.
+Làm ấm máu (Blood rewarming):
+- Máu có thể được rút ra ngoài cơ thể, làm ấm, rồi bơm trở lại.
+- Phương pháp phổ biến là sử dụng máy lọc máu (hemodialysis) – thường dùng cho người suy thận – để làm ấm máu.
+- Trong một số trường hợp nghiêm trọng, có thể cần dùng máy tuần hoàn ngoài cơ thể (heart bypass machine).
 
-Warm intravenous fluids: A warmed intravenous solution of salt water may be put into a vein to help warm the blood.
+Truyền dịch ấm đường tĩnh mạch:
+- Truyền dung dịch muối sinh lý đã được làm ấm qua đường tĩnh mạch để giúp làm ấm máu.
 
-Airway rewarming: The use of humidified oxygen administered with a mask or nasal tube can warm the airways and help raise the temperature of the body.
+Làm ấm đường hô hấp (Airway rewarming):
+- Dùng oxy ẩm, ấm thông qua mặt nạ hoặc ống thông mũi để làm ấm đường thở, từ đó giúp tăng thân nhiệt.
 
-Irrigation: A warm saltwater solution may be used to warm certain areas of the body, such as the area around the lungs (pleura) or the abdominal cavity (peritoneal cavity). The warm liquid is introduced into the affected area with catheters.
-
+Tưới rửa khoang cơ thể bằng dịch ấm (Irrigation):
+- Dung dịch muối ấm có thể được dùng để làm ấm các khoang cơ thể như:
+- Khoang màng phổi (pleura)
+- Khoang phúc mạc (peritoneal cavity)
+- Dung dịch ấm được đưa vào khoang cơ thể thông qua ống thông (catheter).

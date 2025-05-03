@@ -1,21 +1,23 @@
-Diabetes, describes a group of metabolic diseases in which the person has high blood glucose (blood sugar), either because insulin production is inadequate, or because the body's cells do not respond properly to insulin, or both. 
+Đái tháo đường (Diabetes)
+- Đái tháo đường là một nhóm bệnh rối loạn chuyển hóa, trong đó nồng độ đường huyết (glucose máu) tăng cao kéo dài, do tuyến tụy không sản xuất đủ insulin, hoặc các tế bào trong cơ thể không đáp ứng hiệu quả với insulin, hoặc kết hợp cả hai nguyên nhân.
+- Đây là một bệnh lý mạn tính, ảnh hưởng đến khả năng điều hòa lượng đường trong máu.
 
-Diabetes is a long-term condition that causes high blood sugar levels.
-There are two types of diabetes:
+Phân loại
+Có hai loại đái tháo đường chính:
 
-1.Type 1 diabetes and 2. Type 2 diabetes
+1. Đái tháo đường type 1
+- Cơ thể không sản xuất insulin.
+- Chiếm khoảng 10% tổng số ca mắc.
+- Thường khởi phát trước 40 tuổi, phổ biến ở tuổi thiếu niên hoặc thanh niên.
 
-In Type 1 Diabetes, the body does not produce insulin. Approximately 10% of all diabetes cases are type 1.
+2. Đái tháo đường type 2
+- Cơ thể vẫn sản xuất insulin nhưng không đủ hoặc không hiệu quả.
+- Chiếm khoảng 90% tổng số ca mắc trên toàn thế giới.
+- Thường liên quan đến lối sống, thừa cân và ít vận động.
 
-In Type 2 Diabetes, the body does not produce enough insulin for proper function. Approximately 90% of all cases of diabetes worldwide are of this type.
-
-People usually develop type 1 diabetes before their 40th year, often in early adulthood or teenage years.
-
-Diagnosis Tests:
-
-Glycated hemoglobin (A1C) test
-Random blood sugar test
-Fasting blood sugar test
-Oral glucose tolerance test
-
-
+Chẩn đoán đái tháo đường
+Các xét nghiệm phổ biến bao gồm:
+- Xét nghiệm HbA1c (Hemoglobin glycated)
+- Xét nghiệm đường huyết ngẫu nhiên
+- Xét nghiệm đường huyết lúc đói
+- Xét nghiệm dung nạp glucose (Oral Glucose Tolerance Test – OGTT)

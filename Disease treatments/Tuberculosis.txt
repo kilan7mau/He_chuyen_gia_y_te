@@ -1,15 +1,17 @@
-Medications are the cornerstone of tuberculosis treatment.
+Điều trị lao:
+- Thuốc là nền tảng chính trong điều trị bệnh lao. Tuy nhiên, điều trị lao thường kéo dài hơn nhiều so với các bệnh nhiễm khuẩn thông thường khác.
+- Với bệnh lao, người bệnh cần sử dụng kháng sinh trong ít nhất từ 6 đến 9 tháng. Việc lựa chọn thuốc và thời gian điều trị cụ thể sẽ phụ thuộc vào nhiều yếu tố như: độ tuổi, tình trạng sức khỏe tổng quát, khả năng kháng thuốc, thể lao (tiềm ẩn hay hoạt động) và vị trí nhiễm trùng trong cơ thể.
+- Liệu trình điều trị ngắn hơn (4 tháng thay vì 9 tháng), sử dụng phác đồ thuốc kết hợp, có thể hiệu quả trong việc ngăn ngừa lao tiềm ẩn chuyển thành lao hoạt động. Việc rút ngắn thời gian điều trị giúp bệnh nhân tuân thủ tốt hơn và giảm nguy cơ gặp tác dụng phụ.
 
-Medications are the cornerstone of tuberculosis treatment. But treating TB takes much longer than treating other types of bacterial infections.
+Các loại thuốc thường dùng để điều trị lao:
+- Isoniazid
+- Rifampin (tên biệt dược: Rifadin, Rimactane)
+- Ethambutol (Myambutol)
+- Pyrazinamide
 
-With tuberculosis, you must take antibiotics for at least six to nine months. The exact drugs and length of treatment depend on your age, overall health, possible drug resistance, the form of TB (latent or active) and the infection's location in the body.
-
-Four months instead of nine — with combined medication may be effective in keeping latent TB from becoming active TB. With the shorter course of treatment, people are more likely to take all their medication, and the risk of side effects is lessened.
-
-The most common medications used to treat tuberculosis include:
-Isoniazid
-Rifampin (Rifadin, Rimactane)
-Ethambutol (Myambutol)
-Pyrazinamide
-
-If you have drug-resistant TB, a combination of antibiotics called fluoroquinolones and injectable medications, such as amikacin, kanamycin or capreomycin, are generally used for 20 to 30 months. Some types of TB are developing resistance to these medications as well.
+Lao kháng thuốc:
+Trong trường hợp lao kháng thuốc, thường sử dụng kết hợp các kháng sinh nhóm fluoroquinolone cùng với thuốc tiêm, như:
+- Amikacin
+- Kanamycin
+- Capreomycin
+- Thời gian điều trị với các phác đồ này kéo dài từ 20 đến 30 tháng. Tuy nhiên, hiện nay đã ghi nhận một số chủng vi khuẩn lao phát triển khả năng kháng lại cả những thuốc này.

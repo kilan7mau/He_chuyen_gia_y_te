@@ -1,15 +1,18 @@
-Tuberculosis (TB) is a potentially serious infectious disease that mainly affects your lungs. The bacteria that cause tuberculosis are spread from one person to another through tiny droplets released into the air via coughs and sneezes.
+Bệnh lao (Tuberculosis - TB)
+- Bệnh lao là một bệnh nhiễm trùng có thể nghiêm trọng, chủ yếu ảnh hưởng đến phổi. Vi khuẩn gây bệnh lao lây lan từ người này sang người khác thông qua những giọt nhỏ thải ra khi ho hoặc hắt hơi.
+- Nhiều chủng bệnh lao kháng lại các loại thuốc điều trị bệnh lao phổ biến nhất. Người bị lao chủ động phải dùng nhiều loại thuốc trong nhiều tháng để tiêu diệt vi khuẩn và ngăn ngừa sự phát triển của sự kháng thuốc.
 
-Many strains of tuberculosis resist the drugs most used to treat the disease. People with active tuberculosis must take several types of medications for many months to eradicate the infection and prevent development of antibiotic resistance.
+Mặc dù cơ thể bạn có thể chứa vi khuẩn gây bệnh lao, nhưng hệ miễn dịch của bạn thường có thể ngăn ngừa bạn bị bệnh. Vì lý do này, các bác sĩ phân biệt giữa:
 
-Although your body may harbor the bacteria that cause tuberculosis, your immune system usually can prevent you from becoming sick. For this reason, doctors make a distinction between:
+Lao tiềm ẩn (Latent TB)
+- Trong tình trạng này, bạn có nhiễm bệnh lao, nhưng vi khuẩn vẫn ở trạng thái không hoạt động trong cơ thể và không gây ra triệu chứng. Lao tiềm ẩn, còn gọi là lao không hoạt động hoặc nhiễm lao, không lây lan. Tuy nhiên, nó có thể chuyển thành lao chủ động, vì vậy điều trị là rất quan trọng để điều trị cho người có lao tiềm ẩn và kiểm soát sự lây lan của bệnh lao. Ước tính có 2 tỷ người mắc lao tiềm ẩn.
 
-Latent TB. In this condition, you have a TB infection, but the bacteria remain in your body in an inactive state and cause no symptoms. Latent TB, also called inactive TB or TB infection, isn't contagious. It can turn into active TB, so treatment is important for the person with latent TB and to help control the spread of TB. An estimated 2 billion people have latent TB.
+Lao chủ động (Active TB)
+- Tình trạng này khiến bạn bị bệnh và có thể lây lan cho người khác. Nó có thể xuất hiện trong vài tuần đầu sau khi nhiễm vi khuẩn lao, hoặc có thể xuất hiện nhiều năm sau đó.
 
-Active TB. This condition makes you sick and can spread to others. It can occur in the first few weeks after infection with the TB bacteria, or it might occur years later.
+Mặc dù bệnh lao có khả năng lây lan, nhưng không dễ dàng để mắc phải. Bạn có khả năng mắc bệnh lao cao hơn từ người sống cùng hoặc làm việc cùng hơn là từ người lạ. Hầu hết những người mắc lao chủ động, sau khi được điều trị thuốc thích hợp trong ít nhất hai tuần, sẽ không còn khả năng lây nhiễm nữa.
 
-Although tuberculosis is contagious, it's not easy to catch. You're much more likely to get tuberculosis from someone you live with or work with than from a stranger. Most people with active TB who've had appropriate drug treatment for at least two weeks are no longer contagious.
-
-The most commonly used diagnostic tool for tuberculosis is a simple skin test, though blood tests are becoming more commonplace. A small amount of a substance called PPD tuberculin is injected just below the skin of your inside forearm. You should feel only a slight needle prick.
-
-Within 48 to 72 hours, a health care professional will check your arm for swelling at the injection site. A hard, raised red bump means you're likely to have TB infection. The size of the bump determines whether the test results are significant.
+Chẩn đoán:
+- Công cụ chẩn đoán phổ biến nhất đối với bệnh lao là xét nghiệm da đơn giản, mặc dù các xét nghiệm máu đang trở nên phổ biến hơn. Một lượng nhỏ chất gọi là PPD tuberculin sẽ được tiêm dưới da cẳng tay trong.
+- Bạn chỉ cảm thấy một chút đau khi tiêm.
+- Trong vòng 48 đến 72 giờ, một chuyên gia y tế sẽ kiểm tra cánh tay của bạn để xem có sự sưng tấy tại vị trí tiêm hay không. Một cục sưng đỏ cứng có thể là dấu hiệu bạn có nhiễm bệnh lao. Kích thước của cục sưng sẽ quyết định mức độ quan trọng của kết quả xét nghiệm.

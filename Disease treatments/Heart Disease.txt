@@ -1,19 +1,16 @@
-Prevention:
+Phòng ngừa:
+Một số loại bệnh tim, như dị tật tim bẩm sinh, không thể phòng ngừa. Tuy nhiên, nhiều loại bệnh tim khác có thể được phòng tránh bằng cách thay đổi lối sống, những thay đổi này cũng giúp cải thiện tình trạng bệnh tim hiện có:
+- Bỏ thuốc lá
+- Kiểm soát các bệnh lý kèm theo như tăng huyết áp, tăng cholesterol và đái tháo đường
+- Tập thể dục ít nhất 30 phút mỗi ngày, hầu hết các ngày trong tuần
+- Chế độ ăn ít muối và chất béo bão hòa
+- Duy trì cân nặng hợp lý
+- Giảm và kiểm soát căng thẳng
+- Thực hành vệ sinh cá nhân tốt
 
-Certain types of heart disease, such as heart defects, can't be prevented. However, you can help prevent many other types of heart disease by making the same lifestyle changes that can improve your heart disease, such as:
-
-Quit smoking
-Control other health conditions, such as high blood pressure, high cholesterol and diabetes
-Exercise at least 30 minutes a day on most days of the week
-Eat a diet that's low in salt and saturated fat
-Maintain a healthy weight
-Reduce and manage stress
-Practice good hygiene
-
-Medications:
-
-ACE Inhibitors
-Antiarrhythmics
-Beta-Blocker Therapy
-Digoxin
-Diuretics
+Thuốc điều trị:
+- Thuốc ức chế men chuyển (ACE Inhibitors) – giúp giãn mạch và giảm huyết áp, giảm gánh nặng cho tim
+- Thuốc chống loạn nhịp (Antiarrhythmics) – điều chỉnh nhịp tim bất thường
+- Liệu pháp chẹn beta (Beta-Blocker Therapy) – làm chậm nhịp tim và giảm huyết áp, giảm nhu cầu oxy của tim
+- Digoxin – tăng sức co bóp của tim, đặc biệt hữu ích trong suy tim và rung nhĩ
+- Thuốc lợi tiểu (Diuretics) – giúp cơ thể loại bỏ muối và nước dư thừa, làm giảm gánh nặng cho tim
